@@ -1,7 +1,7 @@
 # Crud-Imagen_en_NodeJS
 ![](docs/imagen.png)
 
-#Recordar crear el archivo .ENV
+# Recordar crear el archivo .ENV
 
 Ejemplo del .ENV
 
