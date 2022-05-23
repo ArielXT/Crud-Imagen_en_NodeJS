@@ -39,5 +39,5 @@ app.set('view engine', 'ejs');
 app.use('', require("./routes/routes"));
 
 app.listen(PORT, () => {
-    console.log('Server iniciado en el puerto: http://localhost:5000');
+    console.log('Server iniciado en el puerto: http://localhost:4000');
 });
